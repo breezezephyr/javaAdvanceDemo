@@ -1,0 +1,40 @@
+1、有这样一个Room类：
+public class Room {
+/**
+* 房间名称
+*/
+private String roomName;
+/**
+* 房间面积
+*/
+private int area;
+/**
+* 房间价格
+*/
+private BigDecimal price;
+/**
+* 酒店的地址
+*/
+private String address;
+/**
+* 酒店的电话
+*/
+private String phoneNumber
+}
+还有这样一个Person类：
+public class Person {
+/**
+* 姓名
+*/
+private String username;
+/**
+* 年龄
+*/
+private int age;
+/**
+* 体重
+*/
+private int weight;
+}
+现在我们需要用HashMap做一个以room为key，以person为value的缓存，以提供快速查询指定房间入住了哪些人？
+请完成一个可以运行的演示。

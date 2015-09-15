@@ -1,0 +1,8 @@
+001,10,199,Haidian Beijing,0000000
+002,11,199,Haidian Beijing,0000000
+003,12,499,Haidian Beijing,0000000
+004,13,99,Haidian Beijing,0000000
+005,14,499,Haidian Beijing,0000000
+006,15,399,Haidian Beijing,0000000
+007,16,299,Haidian Beijing,0000000
+008,17,299,Haidian Beijing,0000000

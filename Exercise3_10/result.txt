@@ -1,0 +1,492 @@
+beijing_city_18015	北京易旅宾馆
+shanghai_city_14744	锦江之星上海金山城市沙滩店
+beijing_city_14347	北京潘家园家庭旅馆
+beijing_city_14309	北京热公馆国际商务会馆
+beijing_city_14173	北京爱艺居东坝店-东坝家园
+shanghai_city_9885	上海苗家山寨家庭旅馆
+beijing_city_8515	北京兵团大厦
+suzhou_jiangsu_8375	金太阳度假村
+shanghai_city_7208	上海全季酒店淮海路店
+chongqing_city_7171	彭水县紫藤大酒店
+london_england_6865	Albert Serviced Apartments
+london_england_6864	Seven Apart
+london_england_6854	The Pride of Paddington
+london_england_6848	Rosebery Avenue Rooms to Let
+london_england_6846	Old Street Apartments
+london_england_6845	Journeys Greenwich West Hostel
+shanghai_city_6841	第二医科大学招待所
+london_england_6833	Bayswater Superior Apartments
+london_england_6832	Executive Zone 2 London Apartment
+london_england_6830	WHITEHALL
+beijing_city_6808	北京云坊国际酒店
+suzhou_jiangsu_5707	苏州好家短租求职公寓
+suzhou_jiangsu_4768	苏州东风宾馆
+suzhou_jiangsu_3927	苏州鸿达旅馆
+suzhou_jiangsu_3894	苏州宏基宾馆
+chongqing_city_3370	包鸾供销合作社包鸾招待所
+beijing_city_3113	商务部培训中心
+chongqing_city_2961	希尔顿南山温泉度假酒店（未开业）
+hongkong_city_2814	香港富豪荟酒店(无效)
+london_England_2766	The Milestone Hotel
+chongqing_city_2751	重庆星际酒店
+cavriglia_ita_2688	Maison Savoia
+paris_city_2647	Delambre Montparnasse
+paris_city_2644	Art Hotel Batignolles
+taizhou_zhejiang_2567	如意新宾馆
+beijing_city_2459	北京720家庭旅馆
+fuzhou_fujian_2357	福州西凤宾馆
+yulin_guangxi_2343	玉林温泉宾馆
+taizhou_zhejiang_2305	新荣记大酒店(工人路店)
+taizhou_zhejiang_2292	台州市椒江振兴旅馆
+huizhou_guangdong_2267	惠州七星宾馆
+shanghai_city_2255	上海港运大厦
+yichun_jiangxi_2196	宜春银泰宾馆
+london_england_2138	Belmont & Astoria Hotel
+yichun_jiangxi_2127	宜春阳光温泉客栈
+yulin_shanxi_02_2126	榆林政府宾馆
+london_england_2122	Radisson Edwardian Hampshire hotel（爱德华汉普什尔郡酒店）
+koh_phuket_tha_2089	Baumancasa Beach Resort（鲍曼卡萨海滩度假村）
+koh_phuket_tha_2088	麦克斯宾馆
+koh_phuket_tha_2086	Maelarn Hotel（麦浪酒店）
+yichun_jiangxi_2078	宜春瑞雪宾馆
+yichun_jiangxi_2064	宜春奥利康宾馆
+davie_fl_1882	Residence Inn Fort Lauderdale Weston
+budapest_city_1865	BENCZUR3星级
+glendale_ca_1720	Embassy Suites Los Angeles - Glendale
+new_york_city_1531	Capri Whitestone Hotel(无效)
+the_rocks_nsw_1430	The Australian Heritage Hotel‎
+menlo_park_ca_1323	Red Cottage Inn
+paris_city_1262	Saint James & Albany Hotel - Spa
+singapore_city_1200	Oxley
+newcastle_united_kingdom_1175	Stadshotel de Paris
+newcastle_united_kingdom_1174	Het Wapen van Delden Hotel
+new_delhi_1007	Centra Inn New Delhi
+lakeside_ca_954	Hampton Inn Suites SacramentoElk Grove Laguna I5
+lakeside_ca_953	Holiday Inn Express Hotel & Suites ELK GROVE EAST
+san_diego_941	华美达有限圣迭戈机场酒店
+paris_city_877	Hotel Rive Gauche
+paris_city_857	Hotel Saint Christophe
+paris_city_852	Hotel Beaumarchais
+paris_city_849	Hotel de l'Avenir
+paris_city_848	Carladez Cambronne
+paris_city_847	Paname Hotel Bastille
+paris_city_846	Aux Trois Portes
+paris_city_841	Istria Montparnasse
+paris_city_840	Citadines Apart'hotel Opéra Vendôme
+paris_city_810	Melia Royal Alma Boutique Hotel
+ypsilanti_mi_792	Red Roof Inn Detroit Metro Airport Romulus
+peoria_az_721	Ramada Peoria/Glendale Conference Center
+shanghai_city_616	上海地铁教育培训中心(地铁宾馆)
+tel_aviv_543	Arbel Suites Hotel
+tel_aviv_530	Cinema - an Atlas Boutique Hotel
+tel_aviv_495	Royal T Suites
+tel_aviv_494	Sea Side Hotel
+tel_aviv_493	West Hotel
+tel_aviv_490	Gilgal Hotel Tel Aviv
+tel_aviv_486	Villa Vilina Oasis in Neve Tzedek
+tel_aviv_476	City Village
+denpasar_bali_474	W Retreat and Spa Bali - Seminyak（巴厘岛W度假酒店）
+osnabruck_ger_399	Steigenberger Hotel Remarque
+shanghai_city_334	上海宸南大酒店
+los_angeles_usa_291	Su Casa at Venice Beach
+montvale_nj_263	希尔顿珍珠河酒店
+montvale_nj_262	帕克里奇万豪酒店
+sydney_australia_261	Capitol Square Hotel
+brooklyn_center_mn_253	Days Inn Minneapolis North
+paris_city_247	Pavillon Bercy Gare de Lyon
+west_memphis_ar_233	Best Western West Memphis Inn
+west_memphis_ar_232	Americas Best Value Inn West Memphis
+west_memphis_ar_231	Homegate Inn And Suites
+west_memphis_ar_229	Red Roof Inn West Memphis AR
+melbourne_australia_208	Best Western Airport Motel & Convention Centre
+mason_wv_176	America's Inn - Mason
+the_hague_175	Short Stay Apartment Prince Palace
+the_hague_174	MAFF Appartement Den Haag
+the_hague_173	The Hague Apartments
+the_hague_171	Short Stay Apartment Noordeinde
+the_hague_167	Pension Duinoord
+manchester_usa_158	Hilton Garden Inn Manchester Downtown
+tel_aviv_158	InterContinental David Tel Aviv
+manchester_usa_155	曼彻斯特机场福朋喜来登酒店
+manchester_usa_154	Comfort Inn Airport
+covington_kt_154	Radisson Hotel Cincinnati Riverfront
+manchester_usa_153	曼彻斯特雷迪森酒店
+los_angeles_usa_152	Comfort Inn Near Hollywood Walk of Fame
+manchester_usa_150	The Highlander Inn
+san_antonio_usa_150	Hilton San Antonio Airport
+san_antonio_usa_148	华美达市区丽米特德酒店
+kansas_city_147	Super 8 Kearney
+las_vegas_146	THE SIGNATURE AT MGM(单卧套房)
+san_antonio_usa_144	Best Western Plus Fiesta Inn
+suzhou_jiangsu_140	美乐城宾馆
+manchester_usa_140	Britannia Hotel Wigan
+sydney_australia_135	The Marque Hotel Sydney
+los_angeles_usa_133	Beverly Inn
+mexico_city_130	墨西哥城市区假日酒店
+los_angeles_usa_128	Golden Key Hotel
+los_angeles_usa_126	Ramada Plaza Hotel LAX - El Segundo（ 埃尔塞贡多华美达广场酒店）
+san_antonio_usa_125	La Quinta Inn San Antonio AlamoDome South
+los_angeles_usa_123	Doubletree Los Angeles Rosemead
+birmingham_usa_117	Park Inn by Radisson Telford
+san_antonio_usa_117	Quality Inn San Antonio
+los_angeles_usa_114	Markland Hotel
+san_antonio_usa_111	Hampton Inn Downtown
+san_antonio_usa_110	Rodeway Inn
+los_angeles_usa_106	Ramada Commerce（华美达商务酒店）
+los_angeles_usa_103	Royal Century Hotel at LAX
+torquay_vic_103	Westbank Guest HouseTorquay
+torquay_vic_99	Torwood Gardens Hotel
+torquay_vic_97	The Ravenswood Hotel
+schmallenberg_ger_96	Maritim Hotel - Grafschaft
+torquay_vic_93	Westgate Hotel Silver Awarded
+torquay_vic_90	Crimdon Dene
+las_vegas_89	Fairfield Inn and Suites by Marriott Las Vegas South
+torquay_vic_82	Elmdene Hotel
+torquay_vic_81	Hotel Iona
+torquay_vic_79	Cavendish Hotel
+bratislava_city_79	President Hotel
+torquay_vic_78	Hotel Concorde
+torremolinos_esp_76	Hotel Pez Espada
+torremolinos_esp_75	Hostal Guadalupe
+sydney_australia_74	Stamford Plaza Sydney Airport
+torremolinos_esp_72	El Molino De La Torre
+torquay_uk_70	Clifton Grove Hotel Torquay
+torremolinos_esp_70	La Luna Blanca
+torquay_vic_69	The Marstan - 5 Star Guesthouse
+torremolinos_esp_69	Hotel Parasol Garden
+torremolinos_esp_68	El Pozo
+torquay_vic_67	The Frognel Hall Hotel
+tel_aviv_67	Alexander Suites Hotel
+rovinj_cro_67	Apartments Casa Saina
+tel_aviv_66	Imperial Hotel
+chongqing_city_66	华侨酒店
+glen_allen_va_66	TownePlace Suites Richmond
+torquay_uk_66	Charnwood Guest House
+torquay_vic_65	Derwent Hotel
+rovinj_cro_65	Villa Romantika
+torremolinos_esp_65	Roc Flamingo
+torquay_vic_64	Bancourt Hotel
+paris_city_64	ATN Hotel
+tel_aviv_64	Dizengoff Beach Apartments
+torquay_vic_63	Torcroft Hotel
+tel_aviv_62	Best Western Regency Suites Hotel - All Suites Hotel
+torremolinos_esp_62	Apartamentos Nucleo Cristal
+tel_aviv_61	Liber Apartments
+rovinj_cro_61	Old Town Apartments
+torremolinos_esp_61	Hostal Guillot
+tel_aviv_60	De La Mer Hotel
+tel_aviv_59	MARINA
+rovinj_cro_59	Apartments La Pergola
+torquay_vic_58	Corbyn Head Hotel
+torquay_vic_57	Hotel Hudson
+tel_aviv_57	SeaNet Hotel
+rovinj_cro_57	Apartments Cvek
+torremolinos_esp_57	Hotel Residencia Miami
+torquay_vic_56	Carlton Hotel And Spa
+rovinj_cro_56	Apartments Lara
+rovinj_cro_55	Apartments Oriana
+torquay_vic_54	Carlton Court 5 Star Gold Award 2012
+rovinj_cro_54	Apartmani Anka
+torremolinos_esp_54	Torre de la Roca
+torquay_vic_53	Haytor Hotel
+rovinj_cro_53	Apartments and Rooms Robert
+melbourne_australia_51	Medina Grand Melbourne
+torremolinos_esp_51	Marconfort Griego Hotel
+torquay_vic_50	Kingsholm
+torremolinos_esp_49	Hotel Sanz
+torquay_vic_48	Toorak Hotel
+rovinj_cro_48	Villa Rossella 3
+torquay_vic_47	Kingston House
+tel_aviv_47	Arlozorov Suites Hotel
+the_hague_47	Corona Hotel Hampshire Classic
+torremolinos_esp_47	Hostal Beatriz
+tel_aviv_46	Galileo Hotel
+las_vegas_46	Silverton CasinoLLC
+torremolinos_esp_46	Apartamentos La Baranda
+torquay_vic_45	The Southbourne Villa
+rovinj_cro_45	Apartments Anita
+yelverton_uk_44	The Parks (Guest Accommodation)
+koh_samui_44	Banburee Resort & Spa Koh Samui (苏梅岛斑布蕊度假村)
+the_hague_44	Best Western Hotel Petit
+the_hague_43	Crowne Plaza Den Haag Promenade
+torquay_vic_42	Robin Hill International
+tel_aviv_42	Ophir Hotel Tel Aviv
+rovinj_cro_42	Apartments Villa Nikola
+torquay_vic_41	Exton House
+tel_aviv_41	Yarden Beach Apartments
+grand_rapids_40	Country Inn & Suites By Carlson, Grand Rapids East, MI
+torquay_vic_39	Cary Court - Guest House
+the_hague_39	Delta Hotel
+torremolinos_esp_39	Hotel Kristal
+birmingham_usa_38	Holiday Inn Express Tamworth
+rovinj_cro_38	Apartments Lipej
+torremolinos_esp_38	Blue Sea Gran Hotel Cervantes
+torquay_vic_37	Heathcliff House
+pensacola_fl_37	Suburban Extended Stay Pensacola-NAS
+the_hague_37	Hotel Des Indes, a Luxury Collection Hotel
+torquay_vic_36	Kelvin House
+melbourne_australia_36	The Hotel Windsor
+tel_aviv_36	Dizengoff Sea Residence
+torremolinos_esp_36	Hotel Tropicana
+torquay_vic_35	Cranmore
+telford_uk_35	The Whitehouse Hotel Telford
+ubud_id_35	Bumi Ubud Resort
+the_hague_35	Eden Babylon Hotel Den Haag
+rovinj_cro_35	Apartments Marica
+torquay_uk_35	Bentley Lodge Guest House
+telford_uk_34	Buckatree Hall Hotel
+the_hague_34	Stayokay Den Haag
+tel_aviv_34	Eilat Hotel
+rovinj_cro_34	Rooms Residence Dream
+timmendorfer_strand_34	Hotel Gorch Fock
+torremolinos_esp_34	Marina Sur Hotel
+telford_uk_33	The Old Orleton Inn
+the_hague_33	Hotel Novotel Den Haag City Centre
+rovinj_cro_33	Trevisol Apartments
+timmendorfer_strand_33	Hotel Atlantis
+ft_lauderdale_33	Motel 6 Fort Lauderdale
+torremolinos_esp_33	Hotel Adriano
+telford_uk_32	Best Western Valley Hotel
+sydney_australia_32	Grand Mercure Apartments One Darling Harbour
+torquay_uk_32	Allerdale Hotel
+telford_uk_31	Premier Inn Telford Central
+tossa_de_mar_spa_31	Hotel Windsor
+telford_uk_30	Hundred House Hotel
+rovinj_cro_30	Apartments Bella
+timmendorfer_strand_30	Maritim Clubhotel Timmendorfer Strand
+jackson_ms_30	Candlewood Suites Pearl
+telford_uk_29	Church Farm Guest House
+torquay_vic_29	The Charterhouse
+torquay_uk_29	Barcelo Torquay Imperial Hotel
+torquay_vic_28	Meadfoot Bay
+the_hague_28	Ibis Den Haag City Centre
+rovinj_cro_28	Villa Armin
+tarragona_esp_28	Apartamentos Astoria
+torquay_vic_27	Brooklands
+the_hague_27	NH Den Haag
+rovinj_cro_27	Apartmani Taylor
+fairport_ny_27	Budget Inn Fairport
+rovinj_cro_26	Apartments Peteh
+torquay_uk_26	The Baytree Hotel Torquay
+torquay_vic_25	The Bahamas
+torquay_uk_25	Ashurst Lodge
+riccione_ita_25	Hotel Graziella
+torremolinos_esp_25	Hotel Princesa Solar
+torquay_vic_24	Babbacombe Guest House
+tel_aviv_24	Bell Hotel
+rovinj_cro_24	Apartments Nina
+torremolinos_esp_24	Hotel Carmen Teresa
+torquay_vic_23	The Sandpiper Guest House
+telford_uk_23	Haughton Hall
+timmendorfer_strand_23	Quality Hotel Princess
+aberdeen_united_kingdom_22	Cove Bay Hotel Aberdeen
+tel_aviv_22	Grand Beach Hotel
+rovinj_cro_22	Residence Marco Polo
+tarragona_esp_22	Tarraco Park Tarragona
+torremolinos_esp_22	Aparthotel Maeva Torremolinos
+telford_uk_21	Premier Inn Telford North
+tossa_de_mar_spa_21	Hotel Rovira
+ravenna_italy_21	Hotel Cube Ravenna
+torquay_vic_20	Gainsboro Guest House
+santa_elena_gt_20	Hotel Casazul
+tarragona_esp_20	Apartaments Urbis
+hakodate_jp_20	Hotel Tetora
+torremolinos_esp_20	Apartamentos Carolina
+telford_uk_19	Days Inn Hotel Telford Ironbridge
+tossa_de_mar_spa_19	Hotel Mar Bella
+tel_aviv_19	Park Plaza Orchid Tel Aviv
+rovinj_cro_19	Apartments Divna
+torquay_vic_18	The Trouville
+taunton_ma_18	Express By Holiday Inn Taunton
+the_hague_18	Staten Hotel
+zanzibar_tza_18	Zanzibar Grand Palace Hotel
+ubud_id_18	Permana Cottages
+tel_aviv_18	Savoy Sea Side Hotel
+tarragona_esp_18	Astari Hotel
+torquay_uk_18	The Beverley Hotel
+torquay_vic_17	The Burlington Hotel
+telford_uk_17	Holiday Inn Telford Ironbridge
+tossa_de_mar_spa_17	Marina Tossa
+tarragona_esp_17	Hotel Cosmos Tarragona
+terracina_ita_17	Hotel Residence Riva Gaia
+torquay_uk_17	The Shirley Hotel Torquay
+torquay_vic_16	Elmington Hotel
+taunton_ma_16	Castle Hotel Gold Award
+somerset_uk_16	Holiday Inn Taunton
+ubud_id_16	Sunarta Homestay
+rovinj_cro_16	Apartments Cocaletto
+torremolinos_esp_16	Hotel Puente Real Torremolinos
+beppu_jp_15	Beppu Hotel Seifu
+anderson_sc_15	Holiday Inn Express Anderson
+rovinj_cro_15	Apartments Marija
+tarragona_esp_15	PGP Apartaments Estanislau Figueres
+prestwick_uk_15	North Beach Hotel
+dover_de_15	Sleep Inn And Suites
+anderson_sc_14	Hilton Garden Inn Anderson
+corpus_christi_tx_14	科珀斯克里斯蒂北帕德雷岛假日酒店
+rovinj_cro_14	Residence Porta Antica
+dover_de_14	Hilton Garden Inn Dover
+riccione_ita_14	Hotel Luna
+torquay_uk_14	Glenorleigh
+taunton_ma_13	Salisbury House Hotel
+torquay_vic_13	Hotel Barton
+anderson_sc_13	Comfort Suites Anderson
+fairview_pa_13	Quality Inn & Suites
+tarragona_esp_13	Hotel Sant Jordi
+dover_de_13	Residence Inn Marriott Dover
+lindos_gre_13	Vlicha Beach Studios Lindos
+richmond_vt_13	Hilton Garden Inn Richmond
+torremolinos_esp_13	Medina Azahara
+torquay_uk_13	The Brandize
+rovaniemi_fi_12	Ounasvaaran Pirtit
+torquay_vic_12	Albaston House Hotel
+anderson_sc_12	Hampton Inn Anderson
+fairview_pa_12	Quality Inn & Suites Conference Center
+lindos_gre_12	Lindos Blu
+hershey_pa_12	Comfort Inn at the Park
+terracina_ita_12	Torre Del Sole
+riccione_ita_12	Park Hotel Kursaal
+rovaniemi_fi_11	Hotel Aakenus
+beppu_jp_11	Hotel Koraku
+torquay_vic_11	Livermead House Hotel
+tel_aviv_11	City Hotel
+fairview_pa_11	Red Roof Inn Erie
+tarragona_esp_11	PGP Apartaments Apodaca
+tampere_fi_11	Norlandia Care Tampere Hotel
+terracina_ita_11	Hotel Poseidon
+riccione_ita_11	Hotel De la Ville
+torremolinos_esp_11	Hotel Isabel Torremolinos
+beppu_jp_10	Hotel Nagisa
+torquay_vic_10	Buckingham Lodge
+tel_aviv_10	Gordon Inn
+fairview_pa_10	Residence Inn Erie
+cefalu_ita_10	Calanica Residence Hotel
+rovinj_cro_10	Villa Dobravac
+dover_de_10	Days Inn Dover Intown
+tampere_fi_10	Scandic Rosendahl
+saint_petersburg_10	Hilton Saint Petersburg Carillon Park
+riccione_ita_10	Hotel Polo
+torquay_uk_10	Braddon Hall Hotel
+fairview_pa_9	Rodeway Inn Erie
+terracina_ita_9	Villa Giove
+tampere_fi_9	Cumulus Pinja
+harrisburg_pa_9	Homewood Harrisburg East
+tel_aviv_8	Isrotel Tower Hotel
+fairview_pa_8	SpringHill Suites Erie
+trento_ita_8	Hotel Everest
+torremolinos_esp_8	Palm Beach
+lakeside_az_8	Rodeway Inn Silver Creek Inn
+lincoln_uk_8	Pyewipe Inn Lincoln (England)
+tampere_fi_8	Cumulus Hameenpuisto
+harrisburg_pa_8	Econo Lodge Harrisburg
+rovinj_cro_8	Apartments Apollonio
+west_columbia_tx_8	Hampton Inn & Suites Bay City
+okehampton_uk_7	Upcott House Hotel Okehampton
+kota_kinabalu_7	百灵宜海滨渡假村（Beringgis Beach Resort & Spa）
+fairview_pa_7	Super 8 Erie/I 90
+tel_aviv_7	Sun City Hotel
+tampere_fi_7	Scandic Tampere City
+liberal_ks_7	Budget Host Lafonda Motel Libe
+campinas_bra_7	Royal Palm Plaza Resort
+gardner_ks_7	Paola Inn and Suites
+okehampton_uk_6	Cawsandside Bed and Breakfast Okehampton
+fairview_pa_6	TownePlace Suites Erie
+tel_aviv_6	Liber Tel Aviv Sea Shore Suites
+mattoon_il_6	Comfort Suites Mattoon
+torquay_uk_6	Mount Edgcombe Hotel - Guest house
+torremolinos_esp_6	Hotel Roc Lago Rojo
+telford_uk_6	Hartfield Guest House
+rovaniemi_fi_6	Santasport
+liberal_ks_6	Super 8 Liberal Ks
+gardner_ks_6	Rodeway Inn Lawrence
+west_columbia_tx_6	Comfort Suites Lake Jackson
+himeji_jp_5	APA Hotel Himeji-Ekikita
+thunder_bay_on_5	Travelodge Hotel Airlane
+fairview_pa_5	Wingate by Wyndham Erie
+shenandoah_tx_5	Hampton Inn Houston I45 North
+carmel_ca_5	Carmel River Inn
+telford_uk_5	Grays Hotel
+pittsfield_il_5	Best Western Berkshire Hills Inn and Suites
+montauk_ny_5	Sole East Beach
+madonna_di_campiglio_5	Boutique Hotel Chalet Dolce Vita
+rovinj_cro_5	Villa Rossella 2
+the_hague_5	Hilton The Hague
+big_island_5	卡屋布雷夫历史区华拉莱四季度假村
+timmendorfer_strand_4	Hotel Ancora
+kernersville_nc_4	Sleep Inn Kernersville
+torquay_uk_4	Brampton Court Hotel
+faulkton_sd_4	Super 8 Aberdeen East
+pittsfield_il_4	Crowne Plaza Pittsfield-Berkshires
+montauk_ny_4	Sole East Resort
+piste_mex_4	Dolores Alba Chichen Itza
+hamilton_on_4	Super8 Mt Hope Hamilton Intl Arpt ON
+fillmore_ut_4	Quality Inn Richfield
+tampere_fi_4	Sokos Hotel Villa
+rovinj_cro_4	Villa Ernesta
+gardner_ks_4	Virginia Inn
+torquay_uk_3	Yardley Manor Hotel
+faulkton_sd_3	Super 8 Aberdeen North
+terracina_ita_3	Hotel Mareazzurro
+rovaniemi_fi_3	Rantasipi Pohjanhovi
+robinson_il_3	Super 8 Olney
+hamilton_on_3	Comfort Inn Hamilton
+escanaba_mi_3	Super 8 Motel - Escanaba
+tampere_fi_3	Cumulus Koskikatu
+huelva_esp_3	Hotel Tartessos
+teignmouth_uk_3	Cliffden Hotel
+harrisburg_pa_3	温德姆花园哈里斯堡赫尔希酒店
+big_island_3	唯客乐海滩万豪温泉度假酒店
+montclair_ca_2	Super 8 Motel - Upland
+tel_aviv_2	Liart - Boutique hotel
+torquay_uk_2	The Belmont Hotel Torquay
+faulkton_sd_2	Super 8 Aberdeen West
+frazer_pa_2	Hampton Inn Philadelphia-Great Valley
+lone_tree_co_2	Comfort Inn Northwest
+fondi_ita_2	德尔肯堤酒店
+robinson_il_2	Super 8 Vincennes
+the_entrance_nsw_2	Oaks Waterfront Resort The Entrance
+hamilton_on_2	Days Inn Hamilton
+fillmore_ut_2	Super 8 Richfield UT
+motta_camastra_2	伊黎莱斯卡萨莱罗马诺度假酒店
+fort_washington_pa_2	Hilton Garden Inn Philadelphia-Fort Washington
+teignmouth_uk_2	Potters Mooring Hotel
+tossa_de_mar_spa_2	Hotel Don Juan Tossa
+volos_gre_2	Domotel Xenia Volou
+shipley_uk_2	霍林斯庄园万豪酒店和乡村俱乐部
+salado_tx_1	Old Salado Springs
+okehampton_uk_1	Fairway Lodge Okehampton
+thunder_bay_on_1	Victoria Inn Hotel and Convention Center Thunder Bay
+stadtoldendorf_ger_1	Precise Hotel Weserbergland
+etroubles_ita_1	Hotel Beau Sejour
+galena_park_tx_1	Extended Stay America - Houston - Greenway Plaza
+falling_waters_wv_1	Holiday Inn Express MARTINSBURG-NORTH
+colton_ca_1	Holiday Inn Express Colton
+wangerooge_ger_1	Upstalsboom Strandhotel
+wigston_uk_1	The Plough Inn
+tamworth_uk_1	Drayton Manor Hotel
+fancy_gap_va_1	Days Inn Fancy Gap Va
+robinson_il_1	TownePlace Suites Vincennes
+the_entrance_nsw_1	El Lago Waters Resort
+eckelsheim_ger_1	Hotel Klosterhof Eckelsheim
+nelson_bay_1	Oaks Lure
+krumbach_ger_1	Hotel Falk
+burbank_ca_1	Burbank-Media Center
+motta_camastra_1	Terralcantara La casa delle Monache
+dundalk_il_1	邓多克皇冠假日酒店
+fort_washington_pa_1	Best Western Fort Washington Inn
+escanaba_mi_1	Comfort Suites Escanaba
+french_lick_in_1	West Baden Springs Hotel
+elk_river_mn_1	Country Inn & Suites By Carlson Elk River
+riverside_il_1	Holiday Inn Express SOUTH BOSTON
+havelock_north_nz_1	Village Motel
+hille_ger_1	Medical Wellness Hotel Griepshop
+rock_port_mo_1	Super 8 Rock Port MO
+painesville_oh_1	Fairfield Inn & Suites by Marriott Marietta
+volos_gre_1	Volos Palace
+fairlee_vt_1	Silver Maple Lodge & Cottages
+deidesheim_ger_1	Steigenberger Hotel Deidesheim
+livingston_nj_1	Westminster Hotel
+montclair_nj_1	Ontario Inn & Suites
+delwara_ind_1	Devi Garh
+vysoke_tatry_sk_1	Atrium Hotel
+hillsborough_nc_1	Microtel Inn And Suites Hillsborough

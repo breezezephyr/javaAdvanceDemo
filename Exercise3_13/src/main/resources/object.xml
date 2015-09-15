@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<object class="com.sean.fresh.User">
+	<property name="age">
+		<value>10</value>
+	</property>
+	<property name="name">
+		<value>a</value>
+	</property>
+	<property name="birth">
+		<value>2003-11-04</value>
+	</property>
+</object>
+
